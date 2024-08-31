@@ -14,4 +14,8 @@ A disciplina aborda tópicos como Java, Spring Boot, API etc.
 
 ## Atividades
 
-Em andamento.
+- Atividade desenvolvida em sala de aula:
+  [API em spring boot](https://github.com/MichelNsouza/AtividadeSalaDeAula1Web2)
+- Atividade parcial 1 em grupo:
+  [API em spring boot]()
+
